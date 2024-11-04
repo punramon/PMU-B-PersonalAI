@@ -10,11 +10,11 @@
 
 # Content 📝
 * [Xpore: An AI-Powered App for Bioinformatics](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#xpore-an-ai-powered-app-for-bioinformaticians)
-* [Learning from Biosignal](https://github.com/punramon/PMU-B-PersonalAI/blob/main/README.md#learning-from-biosignal)
-* [AI for detecting code plagiarism](https://github.com/punramon/PMU-B-PersonalAI/tree/main#ai-for-detecting-code-plagiarism)
-* [BitNet: Ai for diagnosing ultrasound image](https://github.com/punramon/PMU-B-PersonalAI/blob/main/README.md#bitnet-ai-for-diagnosing-ultrasound-image)
-* [Mental Disorder detection from Social Media Deta](https://github.com/punramon/PMU-B-PersonalAI/blob/main/README.md#mental-disorder-detection-from-social-media-deta)
-* [AI for arresting criminals](https://github.com/punramon/PMU-B-PersonalAI/blob/main/README.md#ai-for-arresting-criminals)
+* [Learning from Biosignal](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#learning-from-biosignal)
+* [AI for detecting code plagiarism](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#ai-for-detecting-code-plagiarism)
+* [BitNet: Ai for diagnosing ultrasound image](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#bitnet-ai-for-diagnosing-ultrasound-image)
+* [Mental Disorder detection from Social Media Deta](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#mental-disorder-detection-from-social-media-deta)
+* [AI for arresting criminals](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#ai-for-arresting-criminals)
   
 ## 📌xPore: An AI-Powered App for Bioinformaticians
 
