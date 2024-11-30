@@ -31,7 +31,7 @@
 
 ## 📌Learning from Biosignal
 **TinySleepNet** เป็น Deep learning model ที่ใช้วิเคราะห์การนอนหลับ (ทำนาย stage การนอนหลับโดยใช้คลื่นสัญญาณจากสมอง EEG)
-สามารถดูรายละเอียดได้ที่[Github TinySleepNet](https://github.com/akaraspt/tinysleepnet?fbclid=IwY2xjawG4GSZleHRuA2FlbQIxMAABHaZzuhBKxhjNzvrltT1fQIn2rB_FotzJ6lIkT2cEtUX-ZYeNsBl_qB8nxA_aem_Auik0rZA_9UHruqd77NC3g)
+สามารถดูรายละเอียดได้ที่ [Github TinySleepNet](https://github.com/akaraspt/tinysleepnet?fbclid=IwY2xjawG4GSZleHRuA2FlbQIxMAABHaZzuhBKxhjNzvrltT1fQIn2rB_FotzJ6lIkT2cEtUX-ZYeNsBl_qB8nxA_aem_Auik0rZA_9UHruqd77NC3g)
 
 **วัตถุประสงค์**
 1. สร้าง Deep learning model ที่มีประสิทธิภาพและสามารถนำไปติดตั้งที่อุปกรณ์ต่าง ๆ เช่นมือถือ หรือ อุปกรณ์ IoT ที่สามารถนำไปวิเคราะห์การนอนของคนไข้ที่อยู่ที่บ้านได้
