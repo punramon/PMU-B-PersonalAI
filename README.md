@@ -3,7 +3,7 @@
 --- | --- | --- | ---
 1 | xPore: An AI-Powered App for Bioinformaticians | [Gaussian mixture model](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_GMM.ipynb) | [Lecture1](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_Xpore%20.pdf)
 2 | Learning from Biosignal | 1D CNN for brain signal | [Lecture2](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_learning_from_biosignals.pdf)
-3 | AI for detecting code plagiarism | Code2Vec to detect code clone | Lecture3
+3 | AI for detecting code plagiarism | [Code2Vec to detect code clone](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_CodeCloneDetection.ipynb) | [Lecture3](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_CodeClone.pdf)
 4 | BiTNet: AI for diagnosing ultrasound image | NLP classifcation | Lecture4
 5 | Mental disorder detection from social media data | EffcientNet: Image Classifcaiton | Lecture5
 6 | AI for arresting criminals | Yolo Detection // Face recognition | Lecture6
@@ -18,6 +18,7 @@
   
 ## 📌xPore: An AI-Powered App for Bioinformaticians
 **Xpore** เป็นซอฟท์แวร์ที่ช่วยนักชีววิทยาสารสนเทศเปรียบเทียบตำแหน่งของลำดับเบสบนสาย RNA ของเซลล์โดยการใช้ข้อมูลสัญญาณไฟฟ้าที่มาจาก Nanopore Sequencer 
+
 สามารถดูรายละเอียดได้ที่ [Github Xpore](https://github.com/GoekeLab/xpore)
 
 **วัตถุประสงค์**
@@ -31,6 +32,7 @@
 
 ## 📌Learning from Biosignal
 **TinySleepNet** เป็น Deep learning model ที่ใช้วิเคราะห์การนอนหลับ (ทำนาย stage การนอนหลับโดยใช้คลื่นสัญญาณจากสมอง EEG)
+
 สามารถดูรายละเอียดได้ที่ [Github TinySleepNet](https://github.com/akaraspt/tinysleepnet?fbclid=IwY2xjawG4GSZleHRuA2FlbQIxMAABHaZzuhBKxhjNzvrltT1fQIn2rB_FotzJ6lIkT2cEtUX-ZYeNsBl_qB8nxA_aem_Auik0rZA_9UHruqd77NC3g)
 
 **วัตถุประสงค์**
@@ -42,6 +44,18 @@
 ให้ทำการแก้ไขข้อมูลตรง simple_model ให้ตรงกับ [Model Architecture - Representation Learning](https://github.com/akaraspt/tinysleepnet?tab=readme-ov-file#model-architecture)
 
 ## 📌AI for detecting code plagiarism
+**Merry** เป็น Machine Learning Model ที่ช่วยตรวจสอบความเหมือนกันของ source code (source code plagiarism detection)
+
+สามารถดูรายละเอียดได้ที่ [Github CodeCloneDetection](https://github.com/MUICT-SERU/SP2019-07-CodeCloneDetection)
+
+**วัตถุประสงค์**
+1. เพื่อสร้าง Machine Learning Model ที่สามารถตรวจสอบความเหมือนกันหรือการคัดลอกของ source code ได้อย่างมีประสิทธิภาพ
+2. ช่วยลดภาระงานของอาจารย์ที่สอนวิชาเกี่ยวกับการเขียนโปรแกรม และโปรแกรมเมอร์ในการค้นหา source code ที่เหมือนกัน
+
+
+**Workshop**
+
+ให้ทำการเปรียบเทียบ cosine similarity ในทุก ๆ คู่ของ source code (มีทั้งหมด 16 คู่) --> ค่าเข้าใกล้ 1 หรือเท่ากับ 1 แสดงว่ามีความเหมือนกัน
 
 ## 📌BitNet: Ai for diagnosing ultrasound image
 
