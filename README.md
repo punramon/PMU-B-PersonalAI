@@ -1,4 +1,4 @@
-# PMU-B-PersonalAI 👾
+# PMU-B-PersonalAI 🤖
 **Class** | **Name** | **Workshop** | **Lecture**
 --- | --- | --- | ---
 1 | xPore: An AI-Powered App for Bioinformaticians | [Gaussian mixture model](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_GMM.ipynb) | [Lecture1](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_Xpore%20.pdf)
