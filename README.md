@@ -12,8 +12,8 @@
 * [Xpore: An AI-Powered App for Bioinformatics](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#xpore-an-ai-powered-app-for-bioinformaticians)
 * [Learning from Biosignal](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#learning-from-biosignal)
 * [AI for detecting code plagiarism](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#ai-for-detecting-code-plagiarism)
-* [BitNet: Ai for diagnosing ultrasound image](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#bitnet-ai-for-diagnosing-ultrasound-image)
 * [Mental Disorder detection from Social Media Deta](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#mental-disorder-detection-from-social-media-deta)
+* [BitNet: Ai for diagnosing ultrasound image](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#bitnet-ai-for-diagnosing-ultrasound-image)
 * [AI for arresting criminals](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#ai-for-arresting-criminals)
   
 ## 📌xPore: An AI-Powered App for Bioinformaticians
@@ -57,9 +57,9 @@
 
 ให้ทำการเปรียบเทียบ cosine similarity ในทุก ๆ คู่ของ source code (มีทั้งหมด 16 คู่) --> ค่าเข้าใกล้ 1 หรือเท่ากับ 1 แสดงว่ามีความเหมือนกัน
 
-## 📌BitNet: Ai for diagnosing ultrasound image
-
 ## 📌Mental Disorder detection from Social Media Deta
+
+## 📌BitNet: Ai for diagnosing ultrasound image
 
 ## 📌AI for arresting criminals
 
