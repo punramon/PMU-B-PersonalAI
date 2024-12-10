@@ -6,7 +6,7 @@
 3 | AI for detecting code plagiarism | [Code2Vec to detect code clone](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_CodeCloneDetection.ipynb) | [Lecture3](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_CodeClone.pdf)
 4 | Mental disorder detection from social media data | [NLP classifcation](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_NLPclassifcation.ipynb) | [Lecture4](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_AI%20for%20Detecting%20Users%20with%20Mental%20Disorders%20from%20Social%20media.pdf)
 5 | BiTNet: AI for diagnosing ultrasound image | EffcientNet: Image Classifcaiton | Lecture5
-6 | AI for arresting criminals | [Yolo Detection // Face recognition](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb) | Lecture6
+6 | AI for arresting criminals | [Yolo Detection // Face recognition](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb) | [Lecture6](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_ObjectDetection.pdf)
 
 # Content 📝
 * [Xpore: An AI-Powered App for Bioinformatics](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#xpore-an-ai-powered-app-for-bioinformaticians)
@@ -74,5 +74,19 @@
 ## 📌BitNet: Ai for diagnosing ultrasound image
 
 ## 📌AI for arresting criminals
+**Real-Time Object Detection** ใช้ YOLO ในการทำระบบเฝ้าระวังและบันทึกหลักฐาน พร้อมพัฒนาสู่ระบบแจ้งเตือนด้วยปัญญาประดิษฐ์ เพื่อการตรวจจับและติดตามบุคคลหรือยานพาหนะต้องสงสัย
+
+**วัตถุประสงค์**
+1. เพื่อช่วยเจ้าหน้าที่ตำรวจในการจัดเก็บและวิเคราะห์ข้อมูลอาชญากรรมผ่านระบบติดตามผู้ต้องสงสัยด้วยเทคโนโลยีปัญญาประดิษฐ์
+2. เพื่อช่วยสร้างความเชื่อมั่นให้กับประชาชนในเรื่องการป้องกันอาชญากรรม
+
+**Workshop**
+
+ให้แยกวิดีโอออกเป็นเฟรมและทำการติด label ให้กับแต่ละเฟรมใน 4 ประเภท ได้แก่ รถบัส, แท็กซี่, รถยนต์, และคนเดินเท้า จากนั้นสร้างโมเดลเพื่อจำแนกประเภททั้ง 4 ด้วย YOLOv8
+ซึ่งผลที่ได้จะเห็นว่าทำนาย pedestrian เยอะเกินจริง
+
+ปัญหาอาจเกิดจาก
+* Bounding Box อยู่กระจุกซ้อนทับกันเกินไป --> ไม่ชัดเจนแยกไม่ออก
+* จำนวน dataset น้องเกินไปทำให้ model มีประสิทธิภาพที่ไม่ดี --> ควรที่จะเพิ่มdataset (extract video เดิมคือ 17 วินาทีได้ 1 เฟรม ซึ่งจะได้ 4 รูป) หรือลดจำนวนวินาทีให้ได้จำนวนภาพที่มากขึ้น
 
 # Presentation video 💿
