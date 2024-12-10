@@ -6,7 +6,7 @@
 3 | AI for detecting code plagiarism | [Code2Vec to detect code clone](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_CodeCloneDetection.ipynb) | [Lecture3](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_CodeClone.pdf)
 4 | Mental disorder detection from social media data | [NLP classifcation](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_NLPclassifcation.ipynb) | [Lecture4](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Lecture/Lecture_AI%20for%20Detecting%20Users%20with%20Mental%20Disorders%20from%20Social%20media.pdf)
 5 | BiTNet: AI for diagnosing ultrasound image | EffcientNet: Image Classifcaiton | Lecture5
-6 | AI for arresting criminals | Yolo Detection // Face recognition | Lecture6
+6 | AI for arresting criminals | [Yolo Detection // Face recognition](https://github.com/punramon/PMU-B-PersonalAI/blob/main/Workshop_Train_Yolov8_Object_Detection_on_Custom_Dataset.ipynb) | Lecture6
 
 # Content 📝
 * [Xpore: An AI-Powered App for Bioinformatics](https://github.com/punramon/PMU-B-PersonalAI/tree/main?tab=readme-ov-file#xpore-an-ai-powered-app-for-bioinformaticians)
